@@ -16,22 +16,6 @@ It offers insights into campaign effectiveness across different customer segment
 
 ---
 
-## 📈 Campaign Performance
-
-### Conversion Rate by Campaign
-- Campaign_9: **20%**  
-- Campaign_1: **15%**  
-- Campaign_2: **10%**  
-- Campaign_3: **5%**  
-
-### Spending by Campaign
-Visual comparison of total spending across:
-- Campaign_4  
-- Campaign_5  
-- Campaign_6  
-- Campaign_7  
-
----
 
 ## 👥 Customer Segmentation Analysis
 
@@ -47,7 +31,6 @@ Educational background of converted customers:
 - Master: **16.88%**  
 - Graduation: **21%**  
 - 2n Cycle: **23.99%**  
-- Basic: *[Value not shown]*  
 
 ---
 
@@ -92,3 +75,4 @@ The dashboard includes interactive filters for deeper analysis:
 
 ### 👤 Target Audience
 This dashboard is designed for **marketing analysts and decision-makers** to evaluate campaign effectiveness and customer engagement across multiple dimensions.
+
